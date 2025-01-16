@@ -75,22 +75,22 @@ To run the program:
 ### Grid Resolution Setup
 _Set the grid dimensions interactively or via command-line arguments._
 
-![Grid Resolution Setup Placeholder](C:\Users\pauca\Documents\GitHub\Conway\readme\Picture5.png)
+![Grid Resolution Setup Placeholder](readme\Picture5.png)
 
 ### Splash Screen
 _A beautifully designed splash screen welcomes you to the program._
 
-![Splash Screen Placeholder](C:\Users\pauca\Documents\GitHub\Conway\readme\Picture1.png)
+![Splash Screen Placeholder](readme\Picture1.png)
 
 ### Editor Mode
 _Design and randomize grid patterns with full control._
 
-![Editor Mode Placeholder](C:\Users\pauca\Documents\GitHub\Conway\readme\Picture2.png)
+![Editor Mode Placeholder](readme\Picture2.png)
 
 ### Simulation Mode
 _Run the simulation, detect patterns, and adjust speed._
 
-![Simulation Mode Placeholder](C:\Users\pauca\Documents\GitHub\Conway\readme\Picture3.png)
+![Simulation Mode Placeholder](readme\Picture3.png)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
