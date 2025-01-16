@@ -27,7 +27,7 @@ For more information on Raylib dependencies, visit the [Raylib Linux guide](http
    ```bash
    make
    ```
-3. The executable will be located in the `project` folder.
+3. The executable will be located in the repository folder.
 
 ### Running the Program
 To run the program:
