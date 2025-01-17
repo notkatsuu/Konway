@@ -3,9 +3,9 @@
 A graphical implementation of Conway's Game of Life using the Raylib library. This project showcases dynamic grid-based simulations with user interaction and pattern detection. The program allows for customization of grid size, speed, and detection settings, offering a fun and educational experience.
 
 
-<div style="text-align: center;">
-  <img src="readme/Conway.gif" alt="Conway's Game of Life" width="200">
-</div>
+<p align="center">
+  <img src="readme/Conway.gif" width="400" />
+</p>
 
 ## Features
 - **Graphical Interface**: Powered by Raylib, the program provides a user-friendly visual environment.
